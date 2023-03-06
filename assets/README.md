@@ -11,7 +11,7 @@ The HTML page loads to show all employees, with their name displayed on the card
 ![image of deployed site](assets/chal12.png)
 
 Here is a link to the git hub repository: https://github.com/shazzy-kawa/team-profile-generator.git
-Here is a link to the github page:
+Here is a link to the github page: https://shazzy-kawa.github.io/team-profile-generator/
 
 ## Credits
 

@@ -44,7 +44,7 @@ function createEngineer(team) {
 
 function createIntern(team) {
     inquirer.prompt([
-        // Intern 
+         
         {
             type: 'input',
             name: 'name',
