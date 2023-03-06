@@ -8,9 +8,9 @@ This weeks challenge was to create a working node.js command-line application th
 
 The HTML page loads to show all employees, with their name displayed on the card, as well as their job title. The cards itself shows their employee ID, email and either phone, github or school depending on their position. The image below shows the deployed site.
 
-![alt text](assets/images/screenshot.png)
+![image of deployed site](chal12.png)
 
-Here is a link to the git hub repository:
+Here is a link to the git hub repository: https://github.com/shazzy-kawa/team-profile-generator.git
 Here is a link to the github page:
 
 ## Credits
